@@ -25,7 +25,7 @@ SECRET_KEY = '2!&$mt^ujrxelmpjk1w^==$4wq2j3+&b3ml7)zt4!=+4vy!raj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nwolf.pythonanywhere.com']
 
 
 # Application definition
